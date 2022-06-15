@@ -1,0 +1,10 @@
+body{
+	background-color: salmon;
+}
+.container p{
+	margin: 0;
+}
+.container p:hover{
+	cursor: pointer;
+	width: 1px;
+}
